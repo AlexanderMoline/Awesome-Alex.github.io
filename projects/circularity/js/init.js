@@ -37,7 +37,7 @@ var init = function(window) {
 
         
         // TODO 7 : Create a Loop to call drawCircle 100 times
-         for (var i = 0; i < 100000; i++){
+         for (var i = 0; i < 100; i++){
              drawCircle();
          }
          
